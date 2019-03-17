@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservoirCalculator", "ReservoirCalculator\ReservoirCalculator.csproj", "{C664787F-52DC-4D45-B696-685E4A7F3129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservoirCalculator.Test", "ReservoirCalculator.Test\ReservoirCalculator.Test.csproj", "{6035157A-E77E-4FBF-9DF9-28034BDD1175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C664787F-52DC-4D45-B696-685E4A7F3129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C664787F-52DC-4D45-B696-685E4A7F3129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C664787F-52DC-4D45-B696-685E4A7F3129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C664787F-52DC-4D45-B696-685E4A7F3129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6035157A-E77E-4FBF-9DF9-28034BDD1175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6035157A-E77E-4FBF-9DF9-28034BDD1175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6035157A-E77E-4FBF-9DF9-28034BDD1175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6035157A-E77E-4FBF-9DF9-28034BDD1175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4264FB2-DA16-418B-AC8C-AC71E3A06558}
+	EndGlobalSection
+EndGlobal
